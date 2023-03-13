@@ -12,4 +12,4 @@ Este proyecto incluye codigo en `HTML` y esta pensado para
 
 ---
 
-### Gracias por sus aportaciones
+### Gracias por sus aportaciones y comentarios :3 
